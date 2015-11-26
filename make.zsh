@@ -220,3 +220,4 @@ source $HOME/.zshrc
 
 suc "All done!"
 suc "Don't forget to tip your barista.\n"
+suc "Install these manually from the App Store: Sketch, iA Writer, Transmit, 1Password, Daisy Disk, Selfie App, Helium, GAget, Pomodoro, MindNode 2, Calcbot, Spillo, Deliveries, iStat, Icon slate, Blind, iTranslate, FolderWatch, Day One, Xcode, Keynote, Numbers, Pages, Tweetbot.\n"

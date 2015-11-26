@@ -1,6 +1,6 @@
 [user]
-  name = Daniel Eden
-  email = dan.eden@me.com
+  name = Bob Wassermann
+  email = bob@wassermann.nl
 [push]
   default = current
 [color]
@@ -52,7 +52,7 @@
   clean = git media clean %f
   smudge = git media smudge %f
 [github]
-  user = daneden
+  user = bobwassermann
 [grep]
   lineNumber = true
 [filter "lfs"]
